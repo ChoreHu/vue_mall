@@ -1,0 +1,17 @@
+{
+  "name": "vue_mall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^2.5.16",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  }
+}
